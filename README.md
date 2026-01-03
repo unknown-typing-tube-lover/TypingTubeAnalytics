@@ -10,7 +10,7 @@ Typing Tubeのプレイ履歴を記録し、詳細な分析レポート（HTML�
 
 ## インストール方法
 1. ブラウザ拡張機能「Tampermonkey」などをインストールします。
-2. ここ(https://github.com/unknown-typing-tube-lover/TypingTubeAnalytics/blob/main/Typing%20Tube%20Analytics-1.0.0.user.js) をインストールしてください。
+2. Typing Tube Analytics-1.0.0.user.jsをインストールしてください。
 
 ## 注意事項・免責事項 (Disclaimer)
 - 本ツールは非公式のユーザースクリプトです。Typing Tube公式とは一切関係ありません。
